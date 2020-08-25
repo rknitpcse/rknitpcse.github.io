@@ -1,5 +1,5 @@
 # About Me
-Hi , I am **Rakesh Kumar** . I am _**Cloud Computing**_ enthuasist . Currently , I am  _**Software Development Engineer I**_ in the Data Connectivity and Integration, at [Progress Software](https://www.progress.com/){:target="_blank"} 
+Hi , I am **Rakesh Kumar** . I am _**Cloud Computing**_ enthuasist . Currently , I am  _**Software Development Engineer I**_ in the Data Connectivity and Integration, at [Progress Software](https://www.progress.com/)
 
 ![Rakesh Kumar](https://github.com/rknitpcse/rknitpcse.github.io/blob/master/ProfilePic.jpg?raw=true)
 
@@ -17,22 +17,22 @@ Hi , I am **Rakesh Kumar** . I am _**Cloud Computing**_ enthuasist . Currently ,
 * _**Software Engineering**_
 
 # Exam Qualitifed
-* **97.3 Percentile** in [UGC-NET](https://ugcnet.nta.nic.in/){:target="_blank"} (**NET(Assistant Professor)**) June 2019  
-* **GATE Computer Science 2018 and 2019** [Graduate Aptitude Test in Engineering](http://www.gate.iitm.ac.in/){:target="_blank"}
+* **97.3 Percentile** in [UGC-NET](https://ugcnet.nta.nic.in/) (**NET(Assistant Professor)**) June 2019  
+* **GATE Computer Science 2018 and 2019** [Graduate Aptitude Test in Engineering](http://www.gate.iitm.ac.in/)
 * **JEE-Mains**
 
 # Industry Experience
-* **Currently Working** at [Progress Software](https://www.progress.com/){:target="_blank"} (Hyderabad,India) as **Software Development Engineer I**
-* **One year** intern in [IDRBT,Hyderabad](http://www.idrbt.ac.in){:target="_blank"} , **(Research Wing of Reserve Bank Of India)**
+* **Currently Working** at [Progress Software](https://www.progress.com/), Hyderabad as **Software Development Engineer I**
+* **One year** intern in [IDRBT,Hyderabad](http://www.idrbt.ac.in) **(Research Wing of Reserve Bank Of India)**
 
 # Certification
-* Certified **Applied CS with Android** from **Google Android**,[Click Here](https://drive.google.com/open?id=0B7XXZv3OfgOyYzJhdy1VZnFIMnc){:target="_blank"}
-* Certified **Core Java with Android** from **Hewlett Packard Enterprises**, [Click Here](https://drive.google.com/open?id=1Voe04ipSCLJZaiCAIif6tbQP1PuiK6Sv){:target="_blank"}
-* Certified **SAFe 5 Practicioner** from **Scaled Agile Framework**, [Click Here](https://www.scaledagileframework.com/){:target="_blank"}
+* Certified **Applied CS with Android** from **Google Android**,[Click Here](https://drive.google.com/open?id=0B7XXZv3OfgOyYzJhdy1VZnFIMnc)
+* Certified **Core Java with Android** from **Hewlett Packard Enterprises**, [Click Here](https://drive.google.com/open?id=1Voe04ipSCLJZaiCAIif6tbQP1PuiK6Sv)
+* Certified **SAFe 5 Practicioner** from **Scaled Agile Framework**, [Click Here](https://www.scaledagileframework.com/)
 
 # Extra Curriculars
-* Volunteer of [Art of Living](https://www.artofliving.org/in-en){:target="_blank"}
-* Worked as a **Awareness and Survey Manager** at Campus Community of **Help Us To Help The Child** [HUHC](http://huhcindia.org/){:target="_blank"}
+* Volunteer of [Art of Living](https://www.artofliving.org/in-en)
+* Worked as a **Awareness and Survey Manager** at Campus Community of **Help Us To Help The Child** [HUHC](http://huhcindia.org/)
 * I was **Sergeant** of **National Cadet Crops (NCC – Army Wing)**
 
 # Contact
