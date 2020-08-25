@@ -1,5 +1,5 @@
 # About Me
-Hi , I am **Rakesh Kumar** . I am _**Cloud Computing**_ enthuasist . Currently , I am  _**Software Development Engineer I**_ in the Data Connectivity and Integration, at  _**Progress Software, Hyderabad, INDIA**_(https://www.progress.com/){:target="_blank"} 
+Hi , I am **Rakesh Kumar** . I am _**Cloud Computing**_ enthuasist . Currently , I am  _**Software Development Engineer I**_ in the Data Connectivity and Integration, at **[Progress Software, Hyderabad, INDIA]**(https://www.progress.com/){:target="_blank"} 
 
 ![Rakesh Kumar](https://scontent.fdel25-1.fna.fbcdn.net/v/t1.0-9/53560104_1178557005659130_8451292442094731264_n.jpg?_nc_cat=103&_nc_sid=7aed08&_nc_ohc=fdEUjlkdzZ8AX-U6tCN&_nc_oc=AQmlUb_0xsLSYDb5-G1SAO2bbhx0bcMuOOCAIivtaZCM99JQIhWfl8bIezC3PFcbslw&_nc_ht=scontent.fdel25-1.fna&oh=a5ccbc859df1053a87c6e11a6f13c6dc&oe=5F5CDA3B)
 
@@ -17,8 +17,8 @@ Hi , I am **Rakesh Kumar** . I am _**Cloud Computing**_ enthuasist . Currently ,
 * _**Software Engineering**_
 
 # Exam Qualitifed
-* **97.3 Percentile** in [UGC-NET](https://ugcnet.nta.nic.in/){:target="_blank"} (_**NET(Assistant Professor)**_) June 2019  
-* **GATE 2018 and GATE 2019**
+* **97.3 Percentile** in [UGC-NET](https://ugcnet.nta.nic.in/){:target="_blank"} (**NET(Assistant Professor)**) June 2019  
+* **GATE Computer Science 2018 and 2019** [Graduate Aptitude Test in Engineering](http://www.gate.iitm.ac.in/){:target="_blank"}
 * **JEE-Mains**
 
 # Industry Experience
