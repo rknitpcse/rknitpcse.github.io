@@ -1,11 +1,11 @@
 # About Me
-Hi , I am **Rakesh Kumar** . I am _**Cloud Computing**_ enthuasist . Currently , I am  _**Software Development Engineer I**_ in the Data Connectivity and Integration, at **[Progress Software, Hyderabad, INDIA]**(https://www.progress.com/){:target="_blank"} 
+Hi , I am **Rakesh Kumar** . I am _**Cloud Computing**_ enthuasist . Currently , I am  _**Software Development Engineer I**_ in the Data Connectivity and Integration, at [Progress Software](https://www.progress.com/){:target="_blank"} 
 
-![Rakesh Kumar](https://scontent.fdel25-1.fna.fbcdn.net/v/t1.0-9/53560104_1178557005659130_8451292442094731264_n.jpg?_nc_cat=103&_nc_sid=7aed08&_nc_ohc=fdEUjlkdzZ8AX-U6tCN&_nc_oc=AQmlUb_0xsLSYDb5-G1SAO2bbhx0bcMuOOCAIivtaZCM99JQIhWfl8bIezC3PFcbslw&_nc_ht=scontent.fdel25-1.fna&oh=a5ccbc859df1053a87c6e11a6f13c6dc&oe=5F5CDA3B)
+![Rakesh Kumar](https://github.com/rknitpcse/rknitpcse.github.io/blob/master/ProfilePic.jpg?raw=true)
 
 # Education
-* M.Tech in Computer Science , [University Of Hyderabad](https://uohyd.ac.in){:target="_blank"} **(2018-2020)** Institution Of Eminence .
-* B.Tech in CSE , [National Institute of Technology Patna](http://www.nitp.ac.in/php/home.php){:target="_blank"} **(2014-2018)**
+* M.Tech in Computer Science , [University Of Hyderabad](https://uohyd.ac.in) **(2018-2020)** Institution Of Eminence .
+* B.Tech in CSE , [National Institute of Technology Patna](http://www.nitp.ac.in/php/home.php) **(2014-2018)**
 
 
 # Research Interests
