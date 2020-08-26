@@ -1,12 +1,11 @@
 # About Me
 Hi , I am **Rakesh Kumar** . I am _**Cloud Computing**_ enthuasist . Currently , I am  _**Software Development Engineer I**_ in the Data Connectivity and Integration, at [Progress Software](https://www.progress.com/)
 
-![Rakesh Kumar](https://github.com/rknitpcse/rknitpcse.github.io/blob/master/ProfilePic.jpg?raw=true) 
-
 # Education
-* M.Tech in Computer Science , [University Of Hyderabad](https://uohyd.ac.in) **(2018-2020)** Institution Of Eminence .
-* B.Tech in CSE , [National Institute of Technology Patna](http://www.nitp.ac.in/php/home.php) **(2014-2018)**
-
+* M.Tech in Computer Science, [University of Hyderabad](https://uohyd.ac.in) (2018-2020) **Institution of Eminence**.
+* B.Tech in Computer Science and Engineering, [National Institute of Technology Patna](http://www.nitp.ac.in/php/home.php) (2014-2018) **An Institute of National Importance**.
+* ISc.(10+2)th in Physics, Chemistry, Math, [Nardiganj College Nardiganj](http://www.nardiganjcollege.com/) (2011-2013)
+* Matric(10th), [High School Hisua]() (2010-2011)  
 
 # Research Interests
 * _**Cloud Computing**_
