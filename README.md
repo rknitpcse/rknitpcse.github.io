@@ -1,7 +1,7 @@
 # About Me
 Hi , I am **Rakesh Kumar** . I am _**Cloud Computing**_ enthuasist . Currently , I am  _**Software Development Engineer I**_ in the Data Connectivity and Integration, at [Progress Software](https://www.progress.com/)
 
-![Rakesh Kumar](https://github.com/rknitpcse/rknitpcse.github.io/blob/master/ProfilePic.jpg?raw=true)
+![Rakesh Kumar](https://github.com/rknitpcse/rknitpcse.github.io/blob/master/ProfilePic.jpg?raw=true) 
 
 # Education
 * M.Tech in Computer Science , [University Of Hyderabad](https://uohyd.ac.in) **(2018-2020)** Institution Of Eminence .
