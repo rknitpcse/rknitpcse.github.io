@@ -15,7 +15,7 @@ Hi , I am **Rakesh Kumar**, a **Cloud Computing** enthuasist. Currently, working
 * _**Machine Learning**_
 * _**Software Engineering**_
 
-# Exam Qualitifed
+# Exams Qualified
 * Secured **AIR 538 and 97.3 Percentile** in [UGC-NET](https://ugcnet.nta.nic.in/) (**JRF & NET(Assistant Professor)**) June 2019  
 * Secured **AIR 5435 in GATE Computer Science 2018** [Graduate Aptitude Test in Engineering](http://www.gate.iitm.ac.in/)
 * Secured **AIR 11235 in JEE-Mains 2014** [Joint Entrance Examination – Main](https://jeemain.nta.nic.in/)
