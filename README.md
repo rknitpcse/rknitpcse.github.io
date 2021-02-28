@@ -1,5 +1,5 @@
 # Er. RAKESH KUMAR
-Hi , I am **Rakesh Kumar** . I am _**Cloud Computing**_ enthuasist . Currently , working as an  _**Software Development Engineer I**_ in the Data Connectivity and Integration, at [Progress Software](https://www.progress.com/)
+Hi , I am **Rakesh Kumar** . I am _**Cloud Computing**_ enthuasist . Currently , working as a  _**Software Development Engineer I**_ in the Data Connectivity and Integration, at [Progress Software](https://www.progress.com/)
 
 # Education
 * M.Tech in Computer Science **(Gold Medalist)**, [University of Hyderabad](https://uohyd.ac.in) (2018-2020) **Institution of Eminence**.
@@ -21,7 +21,7 @@ Hi , I am **Rakesh Kumar** . I am _**Cloud Computing**_ enthuasist . Currently ,
 * Secured **AIR 11235 in JEE-Mains 2014** [Joint Entrance Examination – Main](https://jeemain.nta.nic.in/)
 
 # Industry Experience
-* **Currently Working** at [Progress Software](https://www.progress.com/), Hyderabad as **Software Development Engineer I**
+* **Currently Working** at [Progress Software](https://www.progress.com/), Hyderabad as a **Software Development Engineer I** since JAN 2020.
 * **Worked as** Research Assistant in [Institute for Development & Research in Banking Technology(IDRBT,Hyderabad)](http://www.idrbt.ac.in) **(Research Wing of Reserve Bank Of India)**
 
 # Certification
