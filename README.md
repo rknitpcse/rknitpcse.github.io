@@ -11,7 +11,7 @@ Hi , I am **Rakesh Kumar**, a **Cloud Computing** enthuasist. Currently, working
 * _**Cloud Computing**_
 * _**Distributed Computing**_
 * _**Parallel Computing**_
-* _**Data Structure And Algorithms**_
+* _**Data Structure and Algorithms**_
 * _**Machine Learning**_
 * _**Software Engineering**_
 
