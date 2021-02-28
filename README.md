@@ -1,5 +1,5 @@
 # Er. RAKESH KUMAR
-Hi , I am **Rakesh Kumar** . I am _**Cloud Computing**_ enthuasist . Currently , I am  _**Software Development Engineer I**_ in the Data Connectivity and Integration, at [Progress Software](https://www.progress.com/)
+Hi , I am **Rakesh Kumar** . I am _**Cloud Computing**_ enthuasist . Currently , working as an  _**Software Development Engineer I**_ in the Data Connectivity and Integration, at [Progress Software](https://www.progress.com/)
 
 # Education
 * M.Tech in Computer Science **(Gold Medalist)**, [University of Hyderabad](https://uohyd.ac.in) (2018-2020) **Institution of Eminence**.
