@@ -22,7 +22,7 @@ Hi , I am **Rakesh Kumar**, a **Cloud Computing** enthuasist. Currently, working
 
 # Industry Experience
 * **Currently Working** at [Progress Software](https://www.progress.com/), Hyderabad as a **Software Development Engineer I** since JAN 2020.
-* **Worked as** Research Assistant in [Institute for Development & Research in Banking Technology(IDRBT,Hyderabad)](http://www.idrbt.ac.in) **(Research Wing of Reserve Bank Of India)**
+* **Worked as** a Research Assistant in [Institute for Development & Research in Banking Technology(IDRBT,Hyderabad)](http://www.idrbt.ac.in) **(Research Wing of RBI, GOI)**
 
 # Certification
 * Certified **Applied CS with Android** from **Google Android**,[Click Here](https://drive.google.com/open?id=0B7XXZv3OfgOyYzJhdy1VZnFIMnc)
@@ -33,6 +33,7 @@ Hi , I am **Rakesh Kumar**, a **Cloud Computing** enthuasist. Currently, working
 * Volunteer of [Art of Living](https://www.artofliving.org/in-en)
 * Worked as a **Awareness and Survey Manager** at Campus Community of **Help Us To Help The Child** [HUHC](http://huhcindia.org/)
 * I was **Sergeant** of **National Cadet Crops (NCC – Army Wing)**
+* I was **Captain of Panther Cricket Team** at **IVSIT Mathura**.
 
 # Contact
 * ![](https://img.icons8.com/clouds/1x/email.png) rknitpcse[at]gmail[dot]com, rakkumar[at]progress[dot]com
