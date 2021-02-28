@@ -2,7 +2,7 @@
 Hi , I am **Rakesh Kumar** . I am _**Cloud Computing**_ enthuasist . Currently , I am  _**Software Development Engineer I**_ in the Data Connectivity and Integration, at [Progress Software](https://www.progress.com/)
 
 # Education
-* M.Tech in Computer Science, [University of Hyderabad](https://uohyd.ac.in) (2018-2020) **Institution of Eminence**.
+* M.Tech in Computer Science **(Gold Medalist)**, [University of Hyderabad](https://uohyd.ac.in) (2018-2020) **Institution of Eminence**.
 * B.Tech in Computer Science and Engineering, [National Institute of Technology Patna](http://www.nitp.ac.in/php/home.php) (2014-2018) **An Institute of National Importance**.
 * ISc.(10+2)th in Physics, Chemistry, Math, [Nardiganj College Nardiganj](http://www.nardiganjcollege.com/) (2011-2013)
 * Matric(10th), [High School Hisua]() (2010-2011)  
@@ -16,13 +16,13 @@ Hi , I am **Rakesh Kumar** . I am _**Cloud Computing**_ enthuasist . Currently ,
 * _**Software Engineering**_
 
 # Exam Qualitifed
-* **97.3 Percentile** in [UGC-NET](https://ugcnet.nta.nic.in/) (**NET(Assistant Professor)**) June 2019  
-* **GATE Computer Science 2018 and 2019** [Graduate Aptitude Test in Engineering](http://www.gate.iitm.ac.in/)
-* **JEE-Mains**
+* Secured **AIR 538 and 97.3 Percentile** in [UGC-NET](https://ugcnet.nta.nic.in/) (**JRF & NET(Assistant Professor)**) June 2019  
+* Secured **AIR 5435 in GATE Computer Science 2018** [Graduate Aptitude Test in Engineering](http://www.gate.iitm.ac.in/)
+* Secured **AIR 11235 in JEE-Mains 2014** [Joint Entrance Examination – Main](https://jeemain.nta.nic.in/)
 
 # Industry Experience
 * **Currently Working** at [Progress Software](https://www.progress.com/), Hyderabad as **Software Development Engineer I**
-* **One year** intern in [IDRBT,Hyderabad](http://www.idrbt.ac.in) **(Research Wing of Reserve Bank Of India)**
+* **Worked as** Research Assistant in [Institute for Development & Research in Banking Technology(IDRBT,Hyderabad)](http://www.idrbt.ac.in) **(Research Wing of Reserve Bank Of India)**
 
 # Certification
 * Certified **Applied CS with Android** from **Google Android**,[Click Here](https://drive.google.com/open?id=0B7XXZv3OfgOyYzJhdy1VZnFIMnc)
