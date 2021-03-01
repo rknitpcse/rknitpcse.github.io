@@ -1,5 +1,5 @@
 # Er. RAKESH KUMAR
-Hi , I am **Rakesh Kumar**, a **Cloud Computing** enthuasist. Currently, working as a  _**Software Development Engineer I**_ in the Data Connectivity and Integration, at [Progress Software Hyderabad](https://www.progress.com/) [(Wiki Page)](https://en.wikipedia.org/wiki/Progress_Software)
+Hi , I am **Rakesh Kumar**, a **Cloud Computing** enthuasist. Currently, working full-time as a **Software Development Engineer I** in the Data Connectivity and Integration, at [Progress Software Hyderabad](https://www.progress.com/) [(Wiki Page)](https://en.wikipedia.org/wiki/Progress_Software) and part-time as a Managed Network Expert in Computer Science at [Chegg](https://www.chegg.com/).
 
 # Education
 * M.Tech in Computer Science **(Gold Medalist)**, [University of Hyderabad](https://uohyd.ac.in) (2018-2020) **Institution of Eminence**.
@@ -22,6 +22,7 @@ Hi , I am **Rakesh Kumar**, a **Cloud Computing** enthuasist. Currently, working
 
 # Industry Experience
 * **Currently Working** at [Progress Software](https://www.progress.com/), Hyderabad as a **Software Development Engineer I** since JAN 2020.
+* **Currently Working** at [Chegg](https://www.chegg.com/) as a **Managed Network Expert** since SEPT 2020.
 * **Worked as** a Research Assistant in [Institute for Development & Research in Banking Technology(IDRBT,Hyderabad)](http://www.idrbt.ac.in) **(Research Wing of RBI, GOI)**
 
 # Certification
