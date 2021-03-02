@@ -2,7 +2,7 @@
 Hi , I am **Rakesh Kumar**, a **Cloud Computing** enthuasist. Currently, working full-time as a **Software Development Engineer I** in the Data Connectivity and Integration, at [Progress Software Hyderabad](https://www.progress.com/) [(Wiki Page)](https://en.wikipedia.org/wiki/Progress_Software) and part-time as a **Managed Network Expert** in Computer Science at [Chegg](https://www.chegg.com/).
 
 # Education
-* M.Tech in Computer Science **(Gold Medalist)**, [University of Hyderabad](https://uohyd.ac.in) (2018-2020) **Institution of Eminence**.
+* M.Tech in Computer Science **(Gold Medalist)**, [University of Hyderabad](https://uohyd.ac.in) (2018-2020) **Institute of Eminence(IoE)**.
 * B.Tech in Computer Science and Engineering, [National Institute of Technology Patna](http://www.nitp.ac.in/php/home.php) (2014-2018) **An Institute of National Importance**.
 * ISc.(10+2)th in Physics, Chemistry, Math, [Nardiganj College Nardiganj](http://www.nardiganjcollege.com/) (2011-2013)
 * Matric(10th), [High School Hisua]() (2010-2011)  
