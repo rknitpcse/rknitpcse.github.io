@@ -33,7 +33,7 @@ Hi , I am **Rakesh Kumar**, a **Cloud Computing** enthuasist. Currently, working
 # Extra Curriculars
 * Volunteer of [Art of Living](https://www.artofliving.org/in-en)
 * Worked as a **Awareness and Survey Manager** at Campus Community of **[Help Us To Help The Child]**(http://huhcindia.org/)
-* I was **Sergeant** of **National Cadet Crops (NCC – Army Wing)**
+* I was **Cadet** of **National Cadet Crops (NCC – Army Wing)**
 * I was **Captain of Panther Cricket Team** at **IVSIT Mathura**.
 
 # Contact
