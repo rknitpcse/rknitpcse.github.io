@@ -1,5 +1,5 @@
 # Er. RAKESH KUMAR
-Hi , I am **Rakesh Kumar**, a **Cloud Computing** enthuasist. Currently, working full-time as a **Software Development Engineer I** in the Data Connectivity and Integration, at [Progress Software Hyderabad](https://www.progress.com/) [(Wiki Page)](https://en.wikipedia.org/wiki/Progress_Software) and part-time as a **Managed Network Expert** in Computer Science at [Chegg](https://www.chegg.com/).
+Hi , I am **Rakesh Kumar**, a **Cloud Computing** enthuasist. Currently, working full-time as a **Software Development Engineer II** in the Data Connectivity and Integration, at [Progress Software Hyderabad](https://www.progress.com/) [(Wiki Page)](https://en.wikipedia.org/wiki/Progress_Software) and part-time as a **Managed Network Expert** in Computer Science at [Chegg](https://www.chegg.com/).
 
 # Education
 * M.Tech in Computer Science **(Gold Medalist)**, [University of Hyderabad](https://uohyd.ac.in) (2018-2020) **Institute of Eminence(IoE)**.
@@ -16,12 +16,14 @@ Hi , I am **Rakesh Kumar**, a **Cloud Computing** enthuasist. Currently, working
 * _**Software Engineering**_
 
 # Exams Qualified
-* Secured **AIR 538 and 97.3 Percentile** in [UGC-NET](https://ugcnet.nta.nic.in/) (**JRF & NET(Assistant Professor)**) June 2019  
+* Secured **AIR 538 and 97.3 Percentile** in [UGC-NET](https://ugcnet.nta.nic.in/) (**JRF & NET(Assistant Professor)**) DEC 2019  
 * Secured **AIR 5435 in GATE Computer Science 2018** [Graduate Aptitude Test in Engineering](http://www.gate.iitm.ac.in/)
 * Secured **AIR 11235 in JEE-Mains 2014** [Joint Entrance Examination – Main](https://jeemain.nta.nic.in/)
 
 # Industry Experience
-* **Currently Working** at [Progress Software](https://www.progress.com/), Hyderabad as a **Software Development Engineer I** since JAN 2020.
+* **Currently Working** at [Progress Software](https://www.progress.com/), Hyderabad as a **Software Development Engineer II** since JAN 2022.
+* **Worked** at [Progress Software](https://www.progress.com/), Hyderabad as a **Software Development Engineer I** From JUN 2020 To DEC 2021.
+* **Worked** at [Progress Software](https://www.progress.com/), Hyderabad as a **Software Development Engineer Intern** From JAN 2020 To MAY 2020.
 * **Currently Working** at [Chegg](https://www.chegg.com/) as a **Managed Network Expert** since SEPT 2020.
 * **Worked as** a Research Assistant in [Institute for Development & Research in Banking Technology(IDRBT,Hyderabad)](http://www.idrbt.ac.in) **(Research Wing of RBI, GOI)**
 
