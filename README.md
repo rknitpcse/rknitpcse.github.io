@@ -22,11 +22,11 @@ Hi , I am **Rakesh Kumar**, a **Cloud Computing** enthuasist. Currently, working
 
 # Industry Experience
 * **Currently Working** at [Oracle Cloud HCM](https://www.oracle.com/in/human-capital-management/), Hyderabad as an **Applications Developer 3** since MAY 2022.
-* **Worked** at [Progress Software](https://www.progress.com/), Hyderabad as a **Software Development Engineer II** since JAN 2022 to MAY 2022.
-* **Worked** at [Progress Software](https://www.progress.com/), Hyderabad as a **Software Development Engineer I** From JUN 2020 to DEC 2021.
-* **Worked** at [Progress Software](https://www.progress.com/), Hyderabad as a **Software Development Engineer Intern** From JAN 2020 to MAY 2020.
-* **Worked** at [Chegg](https://www.chegg.com/) as a **Managed Network Expert** since SEPT 2020 to MAY 2021.
-* **Worked at** [Institute for Development & Research in Banking Technology(IDRBT,Hyderabad)](http://www.idrbt.ac.in) **(Research Wing of RBI, GOI)** as a Research Assistant - Project Title: Cloud Health Monitoring and Attestation of Virtual Machines using TPM 2.0
+* **Worked** at [Progress Software](https://www.progress.com/), Hyderabad as a **Software Development Engineer II** from JAN 2022 to MAY 2022.
+* **Worked** at [Progress Software](https://www.progress.com/), Hyderabad as a **Software Development Engineer I** from JUN 2020 to DEC 2021.
+* **Worked** at [Progress Software](https://www.progress.com/), Hyderabad as a **Software Development Engineer Intern** from JAN 2020 to MAY 2020.
+* **Worked** at [Chegg](https://www.chegg.com/) as a **Managed Network Expert** from SEPT 2020 to MAY 2021.
+* **Worked** at [Institute for Development & Research in Banking Technology(IDRBT,Hyderabad)](http://www.idrbt.ac.in) **(Research Wing of RBI, GOI)** as a Research Assistant - Project Title: Security Health Monitoring and Attestation of Virtual Machines using TPM 2.0 in Cloud Computing from JULY 2019 to AUG 2020.
 
 # Certification
 * Certified **Applied CS with Android** from **Google Android**,[Click Here](https://drive.google.com/open?id=0B7XXZv3OfgOyYzJhdy1VZnFIMnc)
