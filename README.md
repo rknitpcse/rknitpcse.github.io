@@ -40,4 +40,4 @@ Hi , I am **Rakesh Kumar**, a **Cloud Computing** enthuasist. Currently, working
 * I was **Captain of Panther Cricket Team** at **IVSIT Mathura**.
 
 # Contact
-* ![](https://img.icons8.com/clouds/1x/email.png) rknitpcse[at]gmail[dot]com, rakkumar[at]progress[dot]com
+* ![](https://img.icons8.com/clouds/1x/email.png) rknitpcse[at]gmail[dot]com, rakesh.ar.kumar[at]oracle[dot]com
