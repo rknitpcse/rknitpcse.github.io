@@ -1,8 +1,8 @@
 # Er. RAKESH KUMAR
-Hi , I am **Rakesh Kumar**, a **Cloud Computing** enthuasist. Currently, working as an **Applications Developer 3** at [Oracle Cloud HCM](https://www.oracle.com/in/human-capital-management/) [(Wiki Page)](https://en.wikipedia.org/wiki/Oracle_Cloud_HCM).
+Hi , I am **Rakesh Kumar**, a **Cloud Computing** enthuasist. Currently, working as an **Applications Developer 2** at [Oracle Cloud HCM](https://www.oracle.com/in/human-capital-management/) [(Wiki Page)](https://en.wikipedia.org/wiki/Oracle_Cloud_HCM).
 
 # Education
-* M.Tech in Computer Science **(Gold Medalist)**, [University of Hyderabad](https://uohyd.ac.in) (2018-2020) **Institute of Eminence(IoE)**.
+* M.Tech in Computer Science, [University of Hyderabad](https://uohyd.ac.in) (2018-2020) **An Institute of Eminence(IoE)**.
 * B.Tech in Computer Science and Engineering, [National Institute of Technology Patna](http://www.nitp.ac.in/php/home.php) (2014-2018) **An Institute of National Importance**.
 * ISc.(10+2)th in Physics, Chemistry, Math, [Nardiganj College Nardiganj](http://www.nardiganjcollege.com/) (2011-2013)
 * Matric(10th), [High School Hisua]() (2010-2011)  
