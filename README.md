@@ -2,6 +2,7 @@
 Hi , I am **Rakesh Kumar**, a **Cloud Computing** enthuasist. Currently, working as an **Applications Developer 2** at [Oracle Cloud HCM](https://www.oracle.com/in/human-capital-management/) [(Wiki Page)](https://en.wikipedia.org/wiki/Oracle_Cloud_HCM).
 
 # Personal
+* Father: Mr. Ramashish Prasad (Busineess Man) and Mrs. Sharada Devi (Home-maker)
 * Birth Place: [Hisua, Bihar, India](https://en.wikipedia.org/wiki/Hisua)
 * Date of Birth: 1st Feb. 1996
 * Height: 5' 5'' or (166 cm)
