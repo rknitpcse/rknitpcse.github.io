@@ -2,12 +2,13 @@
 Hi , I am **Rakesh Kumar**, a **Cloud Computing** enthuasist. Currently, working as an **Applications Developer 2** at [Oracle Cloud HCM](https://www.oracle.com/in/human-capital-management/) [(Wiki Page)](https://en.wikipedia.org/wiki/Oracle_Cloud_HCM).
 
 # Personal
-* Father: Mr. Ramashish Prasad (Busineess-Man) and Mrs. Sharada Devi (Home-Maker)
+* Parents: Mr. Ramashish Prasad (Busineess-Man) and Mrs. Sharada Devi (Home-Maker)
+* Siblings: 3 Sisters and 1 Brother {Sr. Auditor at CGDA Patna} - (All Married)
 * Birth Place: [Hisua, Bihar, India](https://en.wikipedia.org/wiki/Hisua)
 * Date of Birth: 1st Feb. 1996
 * Height: 5' 5'' or (166 cm)
 * Complex: Fair
-* Siblings: 3 Sisters and 1 Brother {Sr. Auditor at CGDA Patna} - (All Married)
+
 
 # Education
 * M.Tech in Computer Science, [University of Hyderabad](https://uohyd.ac.in) (2018-2020), **An Institute of Eminence(IoE)**.
