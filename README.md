@@ -1,19 +1,18 @@
 # Er. RAKESH KUMAR
 Hi , I am **Rakesh Kumar**, a **Cloud Computing** enthuasist. Currently, working as an **Applications Developer 2** at [Oracle Cloud HCM](https://www.oracle.com/in/human-capital-management/) [(Wiki Page)](https://en.wikipedia.org/wiki/Oracle_Cloud_HCM).
 
+# Personal
+* Birth Place: [Hisua, Bihar, India](https://en.wikipedia.org/wiki/Hisua)
+* Date of Birth: 1st Feb. 1996
+* Height: 5' 5'' or (166 cm)
+* Complex: Fair
+* Siblings: 3 Sisters and 1 Brother {Sr. Auditor at CGDA Patna} - (All Married)
+
 # Education
-* M.Tech in Computer Science, [University of Hyderabad](https://uohyd.ac.in) (2018-2020) **An Institute of Eminence(IoE)**.
-* B.Tech in Computer Science and Engineering, [National Institute of Technology Patna](http://www.nitp.ac.in/php/home.php) (2014-2018) **An Institute of National Importance**.
+* M.Tech in Computer Science, [University of Hyderabad](https://uohyd.ac.in) (2018-2020), **An Institute of Eminence(IoE)**.
+* B.Tech in Computer Science and Engineering, [National Institute of Technology Patna](http://www.nitp.ac.in/php/home.php) (2014-2018), **An Institute of National Importance**.
 * ISc.(10+2)th in Physics, Chemistry, Math, [Nardiganj College Nardiganj](http://www.nardiganjcollege.com/) (2011-2013)
 * Matric(10th), [High School Hisua]() (2010-2011)  
-
-# Research Interests
-* _**Cloud Computing**_
-* _**Distributed Computing**_
-* _**Parallel Computing**_
-* _**Data Structure and Algorithms**_
-* _**Machine Learning**_
-* _**Software Engineering**_
 
 # Exams Qualified
 * Secured **AIR 538 and 97.3 Percentile** in [UGC-NET](https://ugcnet.nta.nic.in/) (**JRF & NET(Assistant Professor)**) DEC 2019  
@@ -32,6 +31,16 @@ Hi , I am **Rakesh Kumar**, a **Cloud Computing** enthuasist. Currently, working
 * Certified **Applied CS with Android** from **Google Android**,[Click Here](https://drive.google.com/open?id=0B7XXZv3OfgOyYzJhdy1VZnFIMnc)
 * Certified **Core Java with Android** from **Hewlett Packard Enterprises**, [Click Here](https://drive.google.com/open?id=1Voe04ipSCLJZaiCAIif6tbQP1PuiK6Sv)
 * Certified **SAFe 5 Practicioner** from **Scaled Agile Framework**, [Click Here](https://www.scaledagileframework.com/)
+
+# Research Interests
+* _**Cloud Computing**_
+* _**Distributed Computing**_
+* _**Parallel Computing**_
+* _**Data Structure and Algorithms**_
+* _**Artificial Intelligence**_
+* _**Machine Learning**_
+* _**Software Engineering**_
+
 
 # Extra Curriculars
 * Volunteer of [Art of Living](https://www.artofliving.org/in-en)
