@@ -1,5 +1,5 @@
 # Er. RAKESH KUMAR
-Hi , I am **Rakesh Kumar**, a **Cloud Computing** enthuasist. Currently, working as an **Applications Developer 2** at [Oracle Cloud HCM](https://www.oracle.com/in/human-capital-management/) [(Wiki Page)](https://en.wikipedia.org/wiki/Oracle_Cloud_HCM).
+Hi , I am **Rakesh Kumar**, a **Cloud Computing** enthuasist. Currently, working as an **Applications Developer 2** at [Oracle Cloud HCM](https://en.wikipedia.org/wiki/Oracle_Corporation) [(Wiki Page)](https://en.wikipedia.org/wiki/Oracle_Cloud_HCM).
 
 # Personal
 * Parents: Mr. Ramashish Prasad (Busineess-Man) and Mrs. Sharada Devi (Home-Maker)
@@ -22,7 +22,7 @@ Hi , I am **Rakesh Kumar**, a **Cloud Computing** enthuasist. Currently, working
 * Secured **AIR 11235 in JEE-Mains 2014** [Joint Entrance Examination – Main](https://jeemain.nta.nic.in/)
 
 # Industry Experience
-* **Currently Working** at [Oracle Cloud HCM](https://www.oracle.com/in/human-capital-management/), Hyderabad as an **Applications Developer 2** since MAY 2022.
+* **Currently Working** at [Oracle Cloud HCM](https://en.wikipedia.org/wiki/Oracle_Corporation), Hyderabad as an **Applications Developer 2** since MAY 2022.
 * **Worked** at [Progress Software](https://www.progress.com/), Hyderabad as a **Software Development Engineer II** from JAN 2022 to MAY 2022.
 * **Worked** at [Progress Software](https://www.progress.com/), Hyderabad as a **Software Development Engineer I** from JUN 2020 to DEC 2021.
 * **Worked** at [Progress Software](https://www.progress.com/), Hyderabad as a **Software Development Engineer Intern** from JAN 2020 to MAY 2020.
