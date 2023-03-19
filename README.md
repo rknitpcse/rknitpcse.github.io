@@ -1,5 +1,5 @@
 # Er. RAKESH KUMAR
-Hi , I am **Rakesh Kumar**, a **Cloud Computing** enthuasist. Currently, working as an **Applications Developer 2** at [Oracle Cloud HCM](https://en.wikipedia.org/wiki/Oracle_Corporation).
+Hi , I'm **Rakesh Kumar**, a **Cloud Computing** enthuasist. Currently, working as an **Applications Developer 2** at [Oracle Cloud HCM](https://en.wikipedia.org/wiki/Oracle_Corporation).
 
 # Personal
 * Parents: Mr. Ramashish Prasad (Busineess-Man) and Mrs. Sharada Devi (Home-Maker)
