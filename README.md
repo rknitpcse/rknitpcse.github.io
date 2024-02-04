@@ -9,17 +9,21 @@ A **Cloud Computing** enthusiast. Currently, working as a **Member of Technical 
 * Height: 5' 5'' or (166 cm)
 * Complex: Fair
 
-
 # Education
 * M.Tech in Computer Science, [University of Hyderabad](https://uohyd.ac.in) (2018-2020), **An Institute of Eminence(IoE)**.
 * B.Tech in Computer Science and Engineering, [National Institute of Technology Patna](http://www.nitp.ac.in/php/home.php) (2014-2018), **An Institute of National Importance**.
 * ISc.(10+2)th in Physics, Chemistry, Math, [Nardiganj College Nardiganj](http://www.nardiganjcollege.com/) (2011-2013)
 * Matric(10th), [High School Hisua]() (2010-2011)  
 
-# Exams Qualified
+# Offers and Exams/Interview Qualified or Cracked
+* SDE-2 Interview Qualcomm, AMD, MakeMyTrip, Microsoft, Salesforce - DEC 2023
+* SDE-2 Interview Oracle Cloud - 2022
+* SDE Interview Progress Data Direct - 2020
+* STA and SC Exam NIELIT NIC - 2020
 * Secured **AIR 538 and 97.3 Percentile** in [UGC-NET](https://ugcnet.nta.nic.in/) (**Assistant Professor & JRF**) DEC 2019  
 * Secured **AIR 5435 in GATE Computer Science 2018** [Graduate Aptitude Test in Engineering](http://www.gate.iitm.ac.in/)
 * Secured **AIR 11235 in JEE-Mains 2014** [Joint Entrance Examination – Main](https://jeemain.nta.nic.in/)
+* UPSC NDA NA Written Exam 2013 (SSB Conference out)
 
 # Industry Experience
 * **Currently Working** at [Salesforce](https://en.wikipedia.org/wiki/Salesforce), Hyderabad as a **Member of Technical Staff(MTS)** since DEC 2023.
@@ -43,7 +47,6 @@ A **Cloud Computing** enthusiast. Currently, working as a **Member of Technical 
 * _**Artificial Intelligence**_
 * _**Machine Learning**_
 * _**Software Engineering**_
-
 
 # Extra Curriculars
 * Volunteer of [Art of Living](https://www.artofliving.org/in-en)
