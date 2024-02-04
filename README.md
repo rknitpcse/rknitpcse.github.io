@@ -1,5 +1,5 @@
 # Er. RAKESH KUMAR
-Hi, I'm **Rakesh Kumar**, a **Cloud Computing** enthusiast. Currently, working as a **Member of Technical Staff(MTS)** at [Salesforce](https://en.wikipedia.org/wiki/Salesforce).
+A **Cloud Computing** enthusiast. Currently, working as a **Member of Technical Staff(MTS)** at [Salesforce](https://en.wikipedia.org/wiki/Salesforce).
 
 # Personal
 * Parents: Mr. Ramashish Prasad (Business-Man) and Mrs. Sharada Devi (Home-Maker)
