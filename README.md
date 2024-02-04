@@ -15,7 +15,7 @@ A **Cloud Computing** enthusiast. Currently, working as a **Member of Technical 
 * ISc.(10+2)th in Physics, Chemistry, Math, [Nardiganj College Nardiganj](http://www.nardiganjcollege.com/) (2011-2013)
 * Matric(10th), [High School Hisua]() (2010-2011)  
 
-# Offers and Exams/Interview Qualified or Cracked
+# Offers Cracked or Exams/Interview Qualified
 * SDE-2 Interview Qualcomm, AMD, MakeMyTrip, Microsoft, Salesforce - DEC 2023
 * SDE-2 Interview Oracle Cloud - 2022
 * SDE Interview Progress Data Direct - 2020
