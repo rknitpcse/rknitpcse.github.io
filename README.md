@@ -52,4 +52,4 @@ A **Cloud Computing** enthusiast. Currently, working as a **Member of Technical 
 * I was **Captain of Panther Cricket Team** at **IVSIT Mathura**.
 
 # Contact
-* ![](https://img.icons8.com/clouds/1x/email.png) rknitpcse[at]gmail[dot]com, kumarrakesh2@salesforce.com
+* ![](https://img.icons8.com/clouds/1x/email.png) rknitpcse[at]gmail[dot]com, kumarrakesh2[at]salesforce[dot]com
