@@ -2,6 +2,8 @@
 A **Cloud Computing** enthusiast. Currently, working as a **Member of Technical Staff(MTS)** at [Salesforce](https://en.wikipedia.org/wiki/Salesforce).
 
 # Personal
+* Parents: Mr. Ramashish Prasad (Business-Man) and Mrs. Sharada Devi (Home-Maker)
+* Siblings: 3 Sisters and 1 Brother {Sr. Auditor at [CGDA Patna](https://cgda.nic.in/)} - (All Married)
 * Birth Place: [Hisua, Bihar, India](https://en.wikipedia.org/wiki/Hisua)
 * Date of Birth: 1st Feb. 1996
 * Height: 5' 5'' or (166 cm)
