@@ -19,7 +19,7 @@ A **Cloud Computing** enthusiast. Currently, working as a **Member of Technical 
 * SDE-2 Interview Qualcomm, AMD, MakeMyTrip, Microsoft, Salesforce - DEC 2023
 * SDE-2 Interview Oracle Cloud - 2022
 * SDE Interview Progress Data Direct - 2020
-* STA and SC Exam NIELIT NIC - 2020
+* Scientific/Technical Assistant-A and Scientist-C Exam NIELIT NIC - 2020 (recruitment postponed due to case then haven't joined)
 * Secured **AIR 538 and 97.3 Percentile** in [UGC-NET](https://ugcnet.nta.nic.in/) (**Assistant Professor & JRF**) DEC 2019  
 * Secured **AIR 5435 in GATE Computer Science 2018** [Graduate Aptitude Test in Engineering](http://www.gate.iitm.ac.in/)
 * Secured **AIR 11235 in JEE-Mains 2014** [Joint Entrance Examination – Main](https://jeemain.nta.nic.in/)
