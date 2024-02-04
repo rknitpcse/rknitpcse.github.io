@@ -1,8 +1,8 @@
 # Er. RAKESH KUMAR
-Hi , I'm **Rakesh Kumar**, a **Cloud Computing** enthuasist. Currently, working as an **Applications Developer 2** at [Oracle Cloud HCM](https://en.wikipedia.org/wiki/Oracle_Corporation).
+Hi, I'm **Rakesh Kumar**, a **Cloud Computing** enthusiast. Currently, working as a **Member of Technical Staff(MTS)** at [Salesforce](https://en.wikipedia.org/wiki/Salesforce).
 
 # Personal
-* Parents: Mr. Ramashish Prasad (Busineess-Man) and Mrs. Sharada Devi (Home-Maker)
+* Parents: Mr. Ramashish Prasad (Business-Man) and Mrs. Sharada Devi (Home-Maker)
 * Siblings: 3 Sisters and 1 Brother {Sr. Auditor at [CGDA Patna](https://cgda.nic.in/)} - (All Married)
 * Birth Place: [Hisua, Bihar, India](https://en.wikipedia.org/wiki/Hisua)
 * Date of Birth: 1st Feb. 1996
@@ -22,17 +22,18 @@ Hi , I'm **Rakesh Kumar**, a **Cloud Computing** enthuasist. Currently, working 
 * Secured **AIR 11235 in JEE-Mains 2014** [Joint Entrance Examination – Main](https://jeemain.nta.nic.in/)
 
 # Industry Experience
-* **Currently Working** at [Oracle Cloud HCM](https://en.wikipedia.org/wiki/Oracle_Corporation), Hyderabad as an **Applications Developer 2** since MAY 2022.
+* **Currently Working** at [Salesforce](https://en.wikipedia.org/wiki/Salesforce), Hyderabad as a **Member of Technical Staff(MTS)** since DEC 2023.
+* **Worked** at [Oracle Cloud HCM](https://en.wikipedia.org/wiki/Oracle_Corporation), Hyderabad as an **Applications Developer 2** from MAY 2022 to DEC 2023.
 * **Worked** at [Progress Software](https://www.progress.com/), Hyderabad as a **Software Development Engineer II** from JAN 2022 to MAY 2022.
 * **Worked** at [Progress Software](https://www.progress.com/), Hyderabad as a **Software Development Engineer I** from JUN 2020 to DEC 2021.
 * **Worked** at [Progress Software](https://www.progress.com/), Hyderabad as a **Software Development Engineer Intern** from JAN 2020 to MAY 2020.
 * **Worked** at [Chegg](https://www.chegg.com/) as a **Managed Network Expert** from SEPT 2020 to MAY 2021.
-* **Worked** at [Institute for Development & Research in Banking Technology(IDRBT,Hyderabad)](http://www.idrbt.ac.in) **(Research Wing of RBI, GOI)** as a Research Assistant - Project Title: Security Health Monitoring and Attestation of Virtual Machines using TPM 2.0 in Cloud Computing from JULY 2019 to AUG 2020.
+* **Worked** at [Institute for Development & Research in Banking Technology(IDRBT, Hyderabad)](http://www.idrbt.ac.in) **(Research Wing of RBI, GOI)** as a Research Assistant - Project Title: Security Health Monitoring and Attestation of Virtual Machines using TPM 2.0 in Cloud Computing from JULY 2019 to AUG 2020.
 
 # Certification
 * Certified **Applied CS with Android** from **Google Android**,[Click Here](https://drive.google.com/open?id=0B7XXZv3OfgOyYzJhdy1VZnFIMnc)
 * Certified **Core Java with Android** from **Hewlett Packard Enterprises**, [Click Here](https://drive.google.com/open?id=1Voe04ipSCLJZaiCAIif6tbQP1PuiK6Sv)
-* Certified **SAFe 5 Practicioner** from **Scaled Agile Framework**, [Click Here](https://www.scaledagileframework.com/)
+* Certified **SAFe 5 Practitioner** from **Scaled Agile Framework**, [Click Here](https://www.scaledagileframework.com/)
 
 # Research Interests
 * _**Cloud Computing**_
@@ -51,4 +52,4 @@ Hi , I'm **Rakesh Kumar**, a **Cloud Computing** enthuasist. Currently, working 
 * I was **Captain of Panther Cricket Team** at **IVSIT Mathura**.
 
 # Contact
-* ![](https://img.icons8.com/clouds/1x/email.png) rknitpcse[at]gmail[dot]com, rakesh.ar.kumar[at]oracle[dot]com
+* ![](https://img.icons8.com/clouds/1x/email.png) rknitpcse[at]gmail[dot]com, kumarrakesh2@salesforce.com
