@@ -16,8 +16,8 @@ A **Cloud Computing** enthusiast. Currently, working as a **Member of Technical 
 
 # Offers Cracked or Exams/Interview Qualified
 * Secured Offers, SDE-2 Interview Qualcomm, AMD, MakeMyTrip, Microsoft, Salesforce - DEC 2023
-* Joined, SDE-2 Interview Oracle Cloud - 2022
-* Joined, SDE Interview Progress Data Direct - 2020
+* Secured Offer, SDE-2 Interview Oracle Cloud - 2022
+* Secured Offer, SDE-1 Interview Progress Data Direct - 2020
 * Cleared, Scientific/Technical Assistant-A and Scientist-C Exam NIELIT NIC - 2020 (recruitment postponed due to case then haven't joined)
 * Qualified **UGC-NET CS with 97.3 Percentile** in [UGC-NET](https://ugcnet.nta.nic.in/) (**Assistant Professor & JRF**) DEC 2019  
 * Qualified **GATE Computer Science 2018** [Graduate Aptitude Test in Engineering](http://www.gate.iitm.ac.in/)
