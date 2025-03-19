@@ -1,5 +1,5 @@
 # Er. RAKESH KUMAR
-A **Cloud Computing** enthusiast. Currently, working as a **Member of Technical Staff(MTS)** at [Salesforce](https://en.wikipedia.org/wiki/Salesforce).
+A **Cloud Computing** enthusiast. Currently, working as a **Lead Founding Engineer** at [Oculon.ai](https://oculon.ai/).
 
 # Personal
 * Parents: Mr. Ramashish Prasad (Business-Man) and Mrs. Sharada Devi (Home-Maker)
@@ -16,7 +16,7 @@ A **Cloud Computing** enthusiast. Currently, working as a **Member of Technical 
 
 # Offers Cracked or Exams/Interview Qualified
 * Secured Offers, SDE-2 Interview Qualcomm, AMD, MakeMyTrip, Microsoft, Salesforce - DEC 2023
-* Secured Offer, SDE-2 Interview Oracle Cloud - 2022
+* Secured Offer, SDE-2 Interview Oracle Cloud HCM - 2022
 * Secured Offer, SDE-1 Interview Progress Data Direct - 2020
 * Cleared, Scientific/Technical Assistant-A and Scientist-C Exam NIELIT NIC - 2020 (recruitment postponed due to case then haven't joined)
 * Qualified **UGC-NET CS with 97.3 Percentile** in [UGC-NET](https://ugcnet.nta.nic.in/) (**Assistant Professor & JRF**) DEC 2019  
@@ -25,7 +25,8 @@ A **Cloud Computing** enthusiast. Currently, working as a **Member of Technical 
 * UPSC NDA NA Written Exam 2013 (SSB Conference out)
 
 # Industry Experience
-* **Currently Working** at [Salesforce](https://en.wikipedia.org/wiki/Salesforce), Hyderabad as a **Member of Technical Staff(MTS)** since DEC 2023.
+* **Currently Working** at [Oculon.ai](https://oculon.ai/), United States - Remote as **Lead Founding Engineer** since NOV 2024. 
+* **Worked** at [Salesforce](https://en.wikipedia.org/wiki/Salesforce), Hyderabad as a **Member of Technical Staff(MTS)** from DEC 2023 to OCT 2024.
 * **Worked** at [Oracle Cloud HCM](https://en.wikipedia.org/wiki/Oracle_Corporation), Hyderabad as an **Applications Developer 2** from MAY 2022 to DEC 2023.
 * **Worked** at [Progress Software](https://www.progress.com/), Hyderabad as a **Software Development Engineer II** from JAN 2022 to MAY 2022.
 * **Worked** at [Progress Software](https://www.progress.com/), Hyderabad as a **Software Development Engineer I** from JUN 2020 to DEC 2021.
@@ -54,4 +55,4 @@ A **Cloud Computing** enthusiast. Currently, working as a **Member of Technical 
 * I was **Captain of Panther Cricket Team** at **IVSIT Mathura**.
 
 # Contact
-* ![](https://img.icons8.com/clouds/1x/email.png) rknitpcse[at]gmail[dot]com, kumarrakesh2[at]salesforce[dot]com
+* ![](https://img.icons8.com/clouds/1x/email.png) rknitpcse[at]gmail[dot]com, kumarrakesh2[at]salesforce[dot]com, rakesh[dot]k[at]oculon[dot]ai
