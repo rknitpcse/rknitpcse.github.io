@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>INIT: Rakesh Kumar</title>
+    <title>INIT: Rakesh Kumar // Specialist Officer</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -153,9 +153,9 @@
         @keyframes glitch-anim-1 { 0% { clip: rect(42px, 9999px, 44px, 0); } 100% { clip: rect(2px, 9999px, 92px, 0); } }
         @keyframes glitch-anim-2 { 0% { clip: rect(12px, 9999px, 99px, 0); } 100% { clip: rect(90px, 9999px, 2px, 0); } }
         
-        /* --- Decrypt Animation --- */
-        .decrypt-text {
-            opacity: 0;
+        /* --- Typing Animation --- */
+        .typing-text {
+            opacity: 0; /* Initially hide the container */
         }
     </style>
 </head>
@@ -172,8 +172,8 @@
         <section id="hero" class="min-h-screen flex flex-col md:flex-row items-center justify-between">
             <div class="md:w-3/5 text-center md:text-left">
                 <p class="font-mono text-lg mb-4 text-green" id="hero-line-1" style="opacity:0;">> Er. Rakesh Kumar</p>
-                <h1 class="text-4xl md:text-6xl font-bold text-white mb-4 glitch" data-text="Specialist Officer" id="hero-line-2" style="opacity:0;">Specialist Officer</h1>
-                <p class="text-lg md:text-xl text-grey max-w-xl mb-8" id="hero-line-3" style="opacity:0;">Distributed & Cloud Computing specialist - Working as Manager SO-IT at Central Bank of India. Building resilient, scalable systems at the intersection of finance and technology.</p>
+                <h1 class="text-4xl md:text-6xl font-bold text-white mb-4 glitch" data-text="SPECIALIST OFFICER" id="hero-line-2" style="opacity:0;">SPECIALIST OFFICER</h1>
+                <p class="text-lg md:text-xl text-grey max-w-xl mb-8" id="hero-line-3" style="opacity:0;">Distributed & Cloud Computing specialist, working as Manager IT at Central Bank of India. Building resilient, scalable systems at the intersection of finance and technology.</p>
                 <div class="font-mono text-lg" id="hero-line-4" style="opacity:0;">
                     <span class="text-green">></span> <a href="#experience" class="command-link">ls -experience</a>
                 </div>
@@ -183,21 +183,58 @@
 
         <!-- Experience Section -->
         <section id="experience" class="py-24">
-            <h2 class="section-title mb-12 text-center md:text-left">cat experience.log</h2>
+            <h2 class="section-title mb-12 text-center md:text-left typing-text">cat experience.log</h2>
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
                 <!-- Cards will be injected here by JS -->
             </div>
         </section>
 
+        <!-- Research Experience Section -->
+        <section id="research" class="py-24">
+            <h2 class="section-title mb-12 text-center md:text-left typing-text">cat research.log</h2>
+            <div class="space-y-6">
+                <div class="terminal-window p-4 typing-text">
+                    <p class="font-mono text-green">VM Security & Attestation in Cloud // IDRBT, Hyderabad</p>
+                    <p class="text-white mt-2">Proposed and prototyped an architecture for monitoring a VM's security health using TPM 2.0 in an OpenStack cloud, ensuring unforgeable communication to the customer.</p>
+                </div>
+                <div class="terminal-window p-4 typing-text">
+                    <p class="font-mono text-green">3D Movie Recommendations // NIT Patna</p>
+                    <p class="text-white mt-2">Developed a movie recommendation system using collaborative filtering, enhanced by trust metrics from web-based social networks to improve relevance.</p>
+                </div>
+                <div class="terminal-window p-4 typing-text">
+                    <p class="font-mono text-green">Closed Question Prediction on CQA Sites // NIT Patna</p>
+                    <p class="text-white mt-2">Created a model to predict whether a newly posted question on a CQA site (like Stack Overflow) would be marked as closed, to reduce moderator overhead.</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Technical Skills Section -->
+        <section id="skills" class="py-24">
+            <h2 class="section-title mb-12 text-center md:text-left typing-text">cat skills.dat</h2>
+            <div class="terminal-window p-6 typing-text">
+                <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-x-6 gap-y-4 font-mono">
+                    <div><span class="text-green">[+]</span> Cloud-Native Development</div>
+                    <div><span class="text-green">[+]</span> API Design & Service Integration</div>
+                    <div><span class="text-green">[+]</span> Distributed Systems & Processing</div>
+                    <div><span class="text-green">[+]</span> Cloud Infrastructure & DevOps</div>
+                    <div><span class="text-green">[+]</span> Security & Access Control</div>
+                    <div><span class="text-green">[+]</span> Data Streaming & Messaging</div>
+                    <div><span class="text-green">[+]</span> Database Design & Modeling</div>
+                    <div><span class="text-green">[+]</span> ETL Orchestration & Data Lineage</div>
+                    <div><span class="text-green">[+]</span> Performance Optimization</div>
+                </div>
+            </div>
+        </section>
+
         <!-- Education Section -->
         <section id="education" class="py-24">
-            <h2 class="section-title mb-12 text-center md:text-left">cat education.log</h2>
+            <h2 class="section-title mb-12 text-center md:text-left typing-text">cat education.log</h2>
             <div class="space-y-6">
-                 <div class="terminal-window p-4 decrypt-text">
+                 <div class="terminal-window p-4 typing-text">
                     <p class="font-mono text-green">M.Tech, Computer Science (2018-2020)</p>
                     <p class="text-white"><a href="https://uohyd.ac.in" target="_blank" class="hover:underline">University of Hyderabad</a> <span class="text-grey">// Institute of Eminence</span></p>
                 </div>
-                <div class="terminal-window p-4 decrypt-text">
+                <div class="terminal-window p-4 typing-text">
                     <p class="font-mono text-green">B.Tech, CSE (2014-2018)</p>
                     <p class="text-white"><a href="http://www.nitp.ac.in/php/home.php" target="_blank" class="hover:underline">NIT Patna</a> <span class="text-grey">// Institute of National Importance</span></p>
                 </div>
@@ -206,19 +243,33 @@
 
         <!-- Achievements Section -->
         <section id="achievements" class="py-24">
-            <h2 class="section-title mb-12 text-center md:text-left">./run achievements.sh</h2>
+            <h2 class="section-title mb-12 text-center md:text-left typing-text">./run achievements.sh</h2>
             <ul class="space-y-3 font-mono text-lg">
-                <li class="decrypt-text"><span class="text-green mr-2">[+]</span> Secured SDE-2 Offers: Microsoft, Salesforce, AMD, Qualcomm...</li>
-                <li class="decrypt-text"><span class="text-green mr-2">[+]</span> Qualified UGC-NET CS (97.3 Percentile) for Asst. Professor & JRF.</li>
-                <li class="decrypt-text"><span class="text-green mr-2">[+]</span> Qualified GATE Computer Science & JEE-Mains.</li>
-                <li class="decrypt-text"><span class="text-green mr-2">[+]</span> Cleared NIELIT NIC Scientist & UPSC NDA Written exams.</li>
+                <li class="typing-text"><span class="text-green mr-2">[+]</span> Recipient of GATE Fellowship by AICTE, India (2018-2020).</li>
+                <li class="typing-text"><span class="text-green mr-2">[+]</span> Secured SDE-2 Offers: Microsoft, Salesforce, AMD, Qualcomm...</li>
+                <li class="typing-text"><span class="text-green mr-2">[+]</span> Qualified UGC-NET CS (97.35 Percentile) for Asst. Professor & JRF.</li>
+                <li class="typing-text"><span class="text-green mr-2">[+]</span> Secured AIR 5437 in GATE CS & AIR 11278 in JEE-Mains.</li>
+                <li class="typing-text"><span class="text-green mr-2">[+]</span> Cleared NIELIT NIC Scientist & UPSC NDA Written exams.</li>
             </ul>
+        </section>
+
+        <!-- Certifications Section -->
+        <section id="certifications" class="py-24">
+            <h2 class="section-title mb-12 text-center md:text-left typing-text">cat certs.log</h2>
+             <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+                <div class="terminal-window p-4 typing-text"><a href="https://drive.google.com/open?id=0B7XXZv3OfgOyYzJhdy1VZnFIMnc" target="_blank" class="hover:text-green">Applied CS w/ Android <span class="text-grey">// Google</span></a></div>
+                <div class="terminal-window p-4 typing-text"><a href="https://drive.google.com/open?id=1Voe04ipSCLJZaiCAIif6tbQP1PuiK6Sv" target="_blank" class="hover:text-green">Core Java w/ Android <span class="text-grey">// HPE</span></a></div>
+                <div class="terminal-window p-4 typing-text"><a href="https://www.scaledagileframework.com/" target="_blank" class="hover:text-green">SAFe 5 Practitioner <span class="text-grey">// Scaled Agile</span></a></div>
+                <div class="terminal-window p-4 typing-text">Python for Finance <span class="text-grey">// Udemy</span></div>
+                <div class="terminal-window p-4 typing-text">Red Hat OpenStack <span class="text-grey">// Udemy</span></div>
+                <div class="terminal-window p-4 typing-text">Cloud Infrastructure Tech <span class="text-grey">// Linux Foundation</span></div>
+            </div>
         </section>
 
         <!-- Personal Intel Section -->
         <section id="personal" class="py-24">
-            <h2 class="section-title mb-12 text-center md:text-left">cat personal_intel.dat</h2>
-            <div class="terminal-window p-6 decrypt-text">
+            <h2 class="section-title mb-12 text-center md:text-left typing-text">cat personal_intel.dat</h2>
+            <div class="terminal-window p-6 typing-text">
                 <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 font-mono">
                     <div><span class="text-green">Parents:</span><br>Mr. Ramashish Prasad (Business-Man)<br>Mrs. Sharada Devi (Home-Maker)</div>
                     <div><span class="text-green">Siblings:</span><br>3 Sisters, 1 Brother (Sr. Auditor, CGDA)</div>
@@ -230,203 +281,236 @@
 
         <!-- Extra Curriculars Section -->
         <section id="extra-curriculars" class="py-24">
-            <h2 class="section-title mb-12 text-center md:text-left">grep "affiliations" activity.log</h2>
+            <h2 class="section-title mb-12 text-center md:text-left typing-text">grep "roles" activity.log</h2>
             <ul class="space-y-3 font-mono text-lg">
-                <li class="decrypt-text"><span class="text-green mr-2">[>]</span> Volunteer, <a href="https://www.artofliving.org/in-en" target="_blank" class="hover:underline">Art of Living</a>.</li>
-                <li class="decrypt-text"><span class="text-green mr-2">[>]</span> Awareness & Survey Manager, <a href="http://huhcindia.org/" target="_blank" class="hover:underline">Help Us To Help The Child</a>.</li>
-                <li class="decrypt-text"><span class="text-green mr-2">[>]</span> Cadet, National Cadet Corps (NCC – Army Wing).</li>
-                <li class="decrypt-text"><span class="text-green mr-2">[>]</span> Captain, Panther Cricket Team, IVSIT Mathura.</li>
+                <li class="typing-text"><span class="text-green mr-2">[>]</span> Web Developer, Corona & Melange Fest (NIT Patna).</li>
+                <li class="typing-text"><span class="text-green mr-2">[>]</span> Awareness & Survey Manager, <a href="http://huhcindia.org/" target="_blank" class="hover:underline">Help Us To Help The Child</a>.</li>
+                <li class="typing-text"><span class="text-green mr-2">[>]</span> Cadet, National Cadet Corps (NCC – Army Wing).</li>
+                <li class="typing-text"><span class="text-green mr-2">[>]</span> Captain, Panther Cricket Team, IVSIT Mathura.</li>
             </ul>
         </section>
 
         <!-- Contact Section -->
         <section id="contact" class="py-24 text-center">
-             <h2 class="section-title mb-8 justify-center">contact --send</h2>
-             <p class="text-grey max-w-xl mx-auto mb-8 decrypt-text">System is operational and awaiting new directives. Open to collaboration on complex projects and innovative ventures.</p>
-             <a href="mailto:rknitpcse@gmail.com" class="font-mono text-2xl text-green glitch decrypt-text" data-text="rknitpcse[at]gmail[dot]com">rknitpcse[at]gmail[dot]com</a>
+             <h2 class="section-title mb-8 justify-center typing-text">contact --send</h2>
+             <p class="text-grey max-w-xl mx-auto mb-8 typing-text">System is operational and awaiting new directives. Open to collaboration on complex projects and innovative ventures.</p>
+             <a href="mailto:rknitpcse@gmail.com" class="font-mono text-2xl text-green glitch typing-text" data-text="rknitpcse[at]gmail[dot]com">rknitpcse[at]gmail[dot]com</a>
         </section>
     </div>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
     <script>
-        // --- DATA ---
-        const experienceData = [
-            { period: "MAY 2025 - PRESENT", title: "Manager IT (SC2)", company: "Central Bank of India", link: "https://www.centralbankofindia.co.in/en" },
-            { period: "NOV 2024 - MAY 2025", title: "Lead Founding Engineer", company: "Oculon.ai", link: "https://oculon.ai/" },
-            { period: "DEC 2023 - OCT 2024", title: "Member of Technical Staff", company: "Salesforce", link: "https://en.wikipedia.org/wiki/Salesforce" },
-            { period: "MAY 2022 - DEC 2023", title: "Applications Developer 2", company: "Oracle Cloud HCM", link: "https://en.wikipedia.org/wiki/Oracle_Corporation" },
-            { period: "JUN 2020 - MAY 2022", title: "SDE I & II", company: "Progress Software", link: "https://www.progress.com/" },
-            { period: "JUL 2019 - AUG 2020", title: "Research Assistant", company: "IDRBT (RBI's Research Wing)", link: "http://www.idrbt.ac.in" },
-        ];
+        document.addEventListener('DOMContentLoaded', () => {
+            // --- DATA ---
+            const experienceData = [
+                { period: "JAN 2020 - MAY 2022", title: "Software Development Engineer I & II", company: "Progress Software", link: "https://www.progress.com/" },
+                { period: "MAY 2022 - DEC 2023", title: "Applications Engineer", company: "Oracle Cloud HCM", link: "https://en.wikipedia.org/wiki/Oracle_Corporation" },
+                { period: "DEC 2023 - OCT 2024", title: "Customer Centric Engineer (MTS)", company: "Salesforce", link: "https://en.wikipedia.org/wiki/Salesforce" },
+                { period: "NOV 2024 - APR 2025", title: "Lead Founding Engineer", company: "Oculon.ai", link: "https://oculon.ai/" },
+                { period: "MAY 2025 - PRESENT", title: "Manager IT (SC2)", company: "Central Bank of India", link: "https://www.centralbankofindia.co.in/en" }
+            ];
 
-        // --- LOADER SCRIPT ---
-        const loaderContent = document.getElementById('loader-content');
-        const loaderLines = [
-            "Booting Mainframe...",
-            "INITIATING SYSTEM CHECK...",
-            "[✓] Memory Test: 64GB DDR5 OK",
-            "[✓] CPU Core Integrity: OK",
-            "[✓] Loading Quantum Kernel...",
-            "DECRYPTING USER IDENTITY...",
-            "...",
-            "IDENTITY CONFIRMED: Er. RAKESH KUMAR",
-            "TITLE: Specialist Officer - IT",
-            "STATUS: Online",
-            "LAUNCHING PORTFOLIO INTERFACE...",
-        ];
+            // --- LOADER SCRIPT ---
+            const loaderContent = document.getElementById('loader-content');
+            const loaderLines = [
+                "Booting Mainframe...",
+                "INITIATING SYSTEM CHECK...",
+                "[✓] Memory Test: 64GB DDR5 OK",
+                "[✓] CPU Core Integrity: OK",
+                "[✓] Loading Quantum Kernel...",
+                "DECRYPTING USER IDENTITY...",
+                "...",
+                "IDENTITY CONFIRMED: Er. RAKESH KUMAR",
+                "TITLE: Specialist Officer",
+                "STATUS: Online",
+                "LAUNCHING PORTFOLIO INTERFACE...",
+            ];
 
-        let lineIndex = 0;
-        function showLoaderLine() {
-            if (lineIndex < loaderLines.length) {
-                const line = document.createElement('div');
-                line.className = 'loader-line';
-                loaderContent.appendChild(line);
-                typeLine(line, loaderLines[lineIndex], 0);
-                lineIndex++;
-            } else {
-                setTimeout(() => {
-                    document.getElementById('loader').style.opacity = '0';
-                    document.getElementById('loader').style.transition = 'opacity 0.5s';
-                    setTimeout(() => document.getElementById('loader').style.display = 'none', 500);
-                    animateHero();
-                }, 500);
-            }
-        }
-
-        function typeLine(element, text, charIndex) {
-            if (charIndex < text.length) {
-                element.textContent += text.charAt(charIndex);
-                setTimeout(() => typeLine(element, text, charIndex + 1), 20);
-            } else {
-                setTimeout(showLoaderLine, 100);
-            }
-        }
-        window.onload = showLoaderLine;
-
-        // --- HERO ANIMATION ---
-        function animateHero() {
-            const lines = ['#hero-line-1', '#hero-line-2', '#hero-line-3', '#hero-line-4'];
-            lines.forEach((id, index) => {
-                setTimeout(() => {
-                    document.querySelector(id).style.transition = 'opacity 0.5s';
-                    document.querySelector(id).style.opacity = '1';
-                }, index * 300);
-            });
-        }
-
-        // --- EXPERIENCE CARD INJECTION ---
-        const experienceContainer = document.querySelector('#experience .grid');
-        experienceData.forEach(item => {
-            const card = document.createElement('div');
-            card.className = 'terminal-window p-4 decrypt-text';
-            card.innerHTML = `
-                <p class="font-mono text-green">${item.period}</p>
-                <h3 class="text-xl font-bold text-white mt-2">${item.title}</h3>
-                <p class="text-grey"><a href="${item.link}" target="_blank" class="hover:underline">${item.company}</a></p>
-            `;
-            experienceContainer.appendChild(card);
-        });
-
-        // --- CURSOR ---
-        const cursor = document.querySelector('.cursor');
-        document.addEventListener('mousemove', e => {
-            cursor.setAttribute("style", `top: ${e.pageY}px; left: ${e.pageX}px;`);
-        });
-        document.querySelectorAll('a, button, .command-link').forEach(el => {
-            el.addEventListener('mouseover', () => cursor.classList.add('cursor-pointer'));
-            el.addEventListener('mouseout', () => cursor.classList.remove('cursor-pointer'));
-        });
-
-        // --- MATRIX BACKGROUND ---
-        const canvas = document.getElementById('matrix-canvas');
-        const ctx = canvas.getContext('2d');
-        canvas.width = window.innerWidth;
-        canvas.height = window.innerHeight;
-        const letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ123456789@#$%^&*()*&^%';
-        const fontSize = 14;
-        const columns = canvas.width / fontSize;
-        const drops = Array(Math.floor(columns)).fill(1);
-        function drawMatrix() {
-            ctx.fillStyle = 'rgba(0, 0, 0, 0.05)';
-            ctx.fillRect(0, 0, canvas.width, canvas.height);
-            ctx.fillStyle = 'rgba(0, 255, 65, 0.5)';
-            ctx.font = `${fontSize}px VT323`;
-            for (let i = 0; i < drops.length; i++) {
-                const text = letters[Math.floor(Math.random() * letters.length)];
-                ctx.fillText(text, i * fontSize, drops[i] * fontSize);
-                if (drops[i] * fontSize > canvas.height && Math.random() > 0.975) {
-                    drops[i] = 0;
+            let lineIndex = 0;
+            function showLoaderLine() {
+                if (lineIndex < loaderLines.length) {
+                    const line = document.createElement('div');
+                    line.className = 'loader-line';
+                    loaderContent.appendChild(line);
+                    typeLine(line, loaderLines[lineIndex], () => {
+                        setTimeout(showLoaderLine, 100);
+                    });
+                    lineIndex++;
+                } else {
+                    setTimeout(() => {
+                        const loader = document.getElementById('loader');
+                        loader.style.opacity = '0';
+                        loader.style.transition = 'opacity 0.5s';
+                        setTimeout(() => {
+                            loader.style.display = 'none';
+                            animateHero();
+                            prepareAndObserveTyping();
+                        }, 500);
+                    }, 500);
                 }
-                drops[i]++;
             }
-        }
-        setInterval(drawMatrix, 40);
 
-        // --- 3D MONOLITH ---
-        const container = document.getElementById('monolith-container');
-        const scene = new THREE.Scene();
-        const camera = new THREE.PerspectiveCamera(75, container.clientWidth / container.clientHeight, 0.1, 1000);
-        const renderer = new THREE.WebGLRenderer({ alpha: true, antialias: true });
-        renderer.setSize(container.clientWidth, container.clientHeight);
-        container.appendChild(renderer.domElement);
-        const geometry = new THREE.IcosahedronGeometry(2.5, 0);
-        const material = new THREE.MeshBasicMaterial({ color: 0x00ff41, wireframe: true });
-        const monolith = new THREE.Mesh(geometry, material);
-        scene.add(monolith);
-        camera.position.z = 5;
-        function animateMonolith() {
-            requestAnimationFrame(animateMonolith);
-            monolith.rotation.x += 0.001;
-            monolith.rotation.y += 0.002;
-            renderer.render(scene, camera);
-        }
-        animateMonolith();
-        document.addEventListener('mousemove', (event) => {
-            const mouseX = (event.clientX / window.innerWidth) * 2 - 1;
-            const mouseY = -(event.clientY / window.innerHeight) * 2 + 1;
-            monolith.rotation.y = mouseX * 0.5;
-            monolith.rotation.x = mouseY * 0.5;
-        });
-
-        // --- DECRYPT ON SCROLL ---
-        const decryptElements = document.querySelectorAll('.decrypt-text');
-        const chars = '!<>-_\\/[]{}—=+*^?#________';
-        const decryptObserver = new IntersectionObserver((entries) => {
-            entries.forEach(entry => {
-                if (entry.isIntersecting) {
-                    const el = entry.target;
-                    let originalText = el.getAttribute('data-original-text');
-                    if (!originalText) {
-                        originalText = el.innerHTML;
-                        el.setAttribute('data-original-text', originalText);
+            function typeLine(element, text, callback) {
+                let charIndex = 0;
+                const interval = setInterval(() => {
+                    if (charIndex < text.length) {
+                        element.textContent += text.charAt(charIndex);
+                        charIndex++;
+                    } else {
+                        clearInterval(interval);
+                        if (callback) callback();
                     }
-                    
-                    let iteration = 0;
-                    el.style.opacity = 1;
-                    const interval = setInterval(() => {
-                        el.innerHTML = originalText.split("")
-                            .map((letter, index) => {
-                                if(index < iteration) {
-                                    return originalText[index];
-                                }
-                                return chars[Math.floor(Math.random() * chars.length)];
-                            })
-                            .join("");
-                        
-                        if(iteration >= originalText.length){
-                            clearInterval(interval);
+                }, 20);
+            }
+            showLoaderLine();
+
+            // --- HERO ANIMATION ---
+            function animateHero() {
+                const lines = ['#hero-line-1', '#hero-line-2', '#hero-line-3', '#hero-line-4'];
+                lines.forEach((id, index) => {
+                    setTimeout(() => {
+                        const el = document.querySelector(id);
+                        if(el) {
+                            el.style.transition = 'opacity 0.5s';
+                            el.style.opacity = '1';
                         }
-                        
-                        iteration += 1 / 3;
-                    }, 30);
+                    }, index * 300);
+                });
+            }
 
-                    decryptObserver.unobserve(el);
+            // --- EXPERIENCE CARD INJECTION ---
+            const experienceContainer = document.querySelector('#experience .grid');
+            if (experienceContainer) {
+                experienceData.forEach(item => {
+                    const card = document.createElement('div');
+                    card.className = 'terminal-window p-4 typing-text';
+                    card.innerHTML = `
+                        <p class="font-mono text-green">${item.period}</p>
+                        <h3 class="text-xl font-bold text-white mt-2">${item.title}</h3>
+                        <p class="text-grey"><a href="${item.link}" target="_blank" class="hover:underline">${item.company}</a></p>
+                    `;
+                    experienceContainer.appendChild(card);
+                });
+            }
+
+            // --- CURSOR ---
+            const cursor = document.querySelector('.cursor');
+            if (cursor) {
+                document.addEventListener('mousemove', e => {
+                    cursor.setAttribute("style", `top: ${e.pageY}px; left: ${e.pageX}px;`);
+                });
+                document.querySelectorAll('a, button, .command-link').forEach(el => {
+                    el.addEventListener('mouseover', () => cursor.classList.add('cursor-pointer'));
+                    el.addEventListener('mouseout', () => cursor.classList.remove('cursor-pointer'));
+                });
+            }
+
+            // --- MATRIX BACKGROUND ---
+            const canvas = document.getElementById('matrix-canvas');
+            if (canvas) {
+                const ctx = canvas.getContext('2d');
+                canvas.width = window.innerWidth;
+                canvas.height = window.innerHeight;
+                const letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ123456789@#$%^&*()*&^%';
+                const fontSize = 14;
+                const columns = canvas.width / fontSize;
+                const drops = Array(Math.floor(columns)).fill(1);
+                function drawMatrix() {
+                    ctx.fillStyle = 'rgba(0, 0, 0, 0.05)';
+                    ctx.fillRect(0, 0, canvas.width, canvas.height);
+                    ctx.fillStyle = 'rgba(0, 255, 65, 0.5)';
+                    ctx.font = `${fontSize}px VT323`;
+                    for (let i = 0; i < drops.length; i++) {
+                        const text = letters[Math.floor(Math.random() * letters.length)];
+                        ctx.fillText(text, i * fontSize, drops[i] * fontSize);
+                        if (drops[i] * fontSize > canvas.height && Math.random() > 0.975) {
+                            drops[i] = 0;
+                        }
+                        drops[i]++;
+                    }
                 }
-            });
-        }, { threshold: 0.2 });
+                setInterval(drawMatrix, 40);
+            }
 
-        decryptElements.forEach(el => {
-            decryptObserver.observe(el);
+            // --- 3D MONOLITH ---
+            const monolithContainer = document.getElementById('monolith-container');
+            if (monolithContainer && window.THREE) {
+                try {
+                    const scene = new THREE.Scene();
+                    const camera = new THREE.PerspectiveCamera(75, monolithContainer.clientWidth / monolithContainer.clientHeight, 0.1, 1000);
+                    const renderer = new THREE.WebGLRenderer({ alpha: true, antialias: true });
+                    renderer.setSize(monolithContainer.clientWidth, monolithContainer.clientHeight);
+                    monolithContainer.appendChild(renderer.domElement);
+                    const geometry = new THREE.IcosahedronGeometry(2.5, 0);
+                    const material = new THREE.MeshBasicMaterial({ color: 0x00ff41, wireframe: true });
+                    const monolith = new THREE.Mesh(geometry, material);
+                    scene.add(monolith);
+                    camera.position.z = 5;
+                    function animateMonolith() {
+                        requestAnimationFrame(animateMonolith);
+                        monolith.rotation.x += 0.001;
+                        monolith.rotation.y += 0.002;
+                        renderer.render(scene, camera);
+                    }
+                    animateMonolith();
+                    document.addEventListener('mousemove', (event) => {
+                        const mouseX = (event.clientX / window.innerWidth) * 2 - 1;
+                        const mouseY = -(event.clientY / window.innerHeight) * 2 + 1;
+                        monolith.rotation.y = mouseX * 0.5;
+                        monolith.rotation.x = mouseY * 0.5;
+                    });
+                } catch (e) {
+                    console.error("Three.js initialization failed:", e);
+                }
+            }
+
+            // --- TYPING ON SCROLL ---
+            const elementData = new Map();
+            function prepareAndObserveTyping() {
+                document.querySelectorAll('.typing-text').forEach(el => {
+                    const textNodes = [];
+                    const originalTexts = [];
+                    function findTextNodes(node) {
+                        if (node.nodeType === 3 && node.nodeValue.trim() !== '') {
+                            textNodes.push(node);
+                            originalTexts.push(node.nodeValue);
+                        } else if (node.nodeType === 1) {
+                            for (const child of node.childNodes) {
+                                findTextNodes(child);
+                            }
+                        }
+                    }
+                    findTextNodes(el);
+                    elementData.set(el, { textNodes, originalTexts });
+                    textNodes.forEach(node => node.nodeValue = '');
+                    typingObserver.observe(el);
+                });
+            }
+
+            const typingObserver = new IntersectionObserver((entries, observer) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        const el = entry.target;
+                        const data = elementData.get(el);
+                        if (!data) return;
+
+                        el.style.opacity = 1;
+
+                        let overallCharIndex = 0;
+                        for (let i = 0; i < data.textNodes.length; i++) {
+                            const node = data.textNodes[i];
+                            const text = data.originalTexts[i];
+                            for (let j = 0; j < text.length; j++) {
+                                setTimeout(() => {
+                                    node.nodeValue += text[j];
+                                }, overallCharIndex * 15);
+                                overallCharIndex++;
+                            }
+                        }
+                        observer.unobserve(el);
+                    }
+                });
+            }, { threshold: 0.5 });
         });
     </script>
 </body>
